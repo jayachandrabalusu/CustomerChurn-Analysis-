@@ -1,11 +1,11 @@
-#Team- SeeRs, Survival Analysis for customer churn for Telecom company
+# Survival Analysis for customer churn for Telecom company
 
 
 #The data used for this project is taken from Source :  http://www.dataminingconsultant.com/data/churn.txt
 #this is a test data which has been used only for study purpose
 
 #loading the data
-survival=read.csv("D:\\Classes\\R programming\\Project 2_sectionB12\\Team SeeRs- Survival Analysis\\churn.csv")
+survival=read.csv("D:\\Classes\\R programming\\Project 2_sectionB12\\Survival Analysis\\churn.csv")
 
 #finding the no of NAs in the data by running summary on whole dataset
 summary(survival)
